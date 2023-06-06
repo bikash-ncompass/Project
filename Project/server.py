@@ -1,1 +1,2 @@
-Hello client
+print("Hello client")
+print("Login please")
